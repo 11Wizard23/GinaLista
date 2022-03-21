@@ -1,0 +1,28 @@
+.admin__table{
+  padding: 20px;
+  background: rgb(156, 24, 24);
+  color: white;
+  border-radius: 10px;
+  width: 300px;
+  align-items: center;
+  gap: 5px;
+  width: 100%;
+  max-width: 500px;
+}
+
+.admin__table thead th{
+  border-bottom: 2px solid black;
+  padding: 5px;
+}
+
+.admin__table tbody tr:first-child td {
+  padding-top: 10px;
+
+}
+
+.admin__table tbody tr{
+  text-align: center;
+
+}
+
+
